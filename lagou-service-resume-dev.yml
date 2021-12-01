@@ -1,4 +1,4 @@
 mysql:
-  url: dev-http://localhost:3306/db600
+  url: jdbc:mysql://47.96.251.170:3337/lagou?useUnicode=true&characterEncoding=utf8
 lagou:
   message: hello lagou,600
